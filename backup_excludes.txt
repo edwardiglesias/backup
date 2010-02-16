@@ -1,0 +1,14 @@
+/tmp/*
+/Network/*
+/cores/*
+*/.Trash
+/afs/*
+/automount/*
+/private/tmp/*
+/private/var/run/*
+/private/var/spool/postfix/*
+/private/var/vm/*
+/Previous Systems.localized
+/Library_Website/*
+.Spotlight-*/
+
